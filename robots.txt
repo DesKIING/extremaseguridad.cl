@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://extremaseguridad.cl/sitemap.xml
